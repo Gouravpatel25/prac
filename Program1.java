@@ -6,7 +6,7 @@ public class Program1{
 		b=a;
 		a=temp;
 		System.out.println(a);
-		System.out.println(b);
+		System.out.println(b+a);
 	} 
 }
 

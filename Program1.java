@@ -7,6 +7,7 @@ public class Program1{
 		a=temp;
 		System.out.println(a);
 		System.out.println(b+a);
+		System.out.println(a+" "+b); // added now
 	} 
 }
 
